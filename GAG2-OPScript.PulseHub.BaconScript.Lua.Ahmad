@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Keyless-free/Grow-A-Garden2-Script/refs/heads/main/GAG2-OPScript.Lua"))()
